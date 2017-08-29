@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+this text is written in dev1
+=======
+this text is written in dev2
+>>>>>>> dev2
